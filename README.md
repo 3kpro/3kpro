@@ -1,56 +1,60 @@
-# James Lawson · @3kpro
+<p align="center">
+  <a href="https://3kpro.services">
+    <img src="./assets/3kpro-profile-banner.png" alt="3KPRO.Services - Serious systems. Effortless control." width="100%">
+  </a>
+</p>
 
-**AI/DevTools Engineer** · Builder of local-first AI systems, autonomous agents, and developer tooling
+# James Lawson
 
----
+**Founder, 3KPRO.Services | AI systems, automation, and production software**
 
-## About
+I spent 20 years working around real operations at companies including ONEOK,
+PSO, and Enerflex. Now I build practical systems for businesses that need better
+websites, cleaner workflows, stronger lead capture, and useful AI without a
+giant transformation project.
 
-I build AI-powered systems end-to-end from local LLM inference stacks to multi-agent automation crews to production SaaS apps. I develop daily inside Cursor, writing .cursorrules, agent workflows, and DevContainer configs that make AI coding reliable and repeatable.
+Based in Tulsa, Oklahoma. I work across product, code, infrastructure, and
+delivery because a demo that cannot survive production is not a finished job.
 
-Currently: founder of **3KPRO.Services** | building AI tooling in Tulsa, OK
+[3kpro.services](https://3kpro.services) ·
+[james@3kpro.services](mailto:james@3kpro.services)
 
----
+## Selected Work
+
+| Project | What it proves |
+| --- | --- |
+| [**3KPRO.Services**](https://github.com/3kpro/3kpro-website) | Production Next.js presence for AI automation, custom software, and conversion-focused client websites. [View live](https://3kpro.services). |
+| [**misfire**](https://github.com/3kpro/misfire) | Zero-dependency CLI that explains why an AI agent selected the wrong skill before the failure reaches runtime. |
+| [**Jarvis**](https://github.com/3kpro/jarvis) | Local-first AI operations layer with multi-model routing, RAG, Qdrant, OpenClaw, and self-hosted infrastructure. |
+| [**AI Arsenal**](https://github.com/3kpro/aiarsenal) | Applied experiments in RAG, fine-tuning, MCP, local inference, and multi-agent workflows. |
+| [**3K Trading Bot V2**](https://github.com/3kpro/3K_Trading_Bot_V2) | Python trading system with a Donchian strategy, Flask dashboard, Docker, and CI/CD. |
 
 ## What I Build
 
-- **Local AI platforms** - multi-model routing (DeepSeek, Gemini, Llama) on self-hosted hardware with Qdrant RAG
-- **Autonomous agent crews** - multi-agent orchestration with Cursor rules, Claude, and devcontainer configs
-- **Algorithmic trading bots** - Python/JS bots with Donchian breakout strategies, Flask dashboards, CI/CD
-- **Production infrastructure** - Express/Docker/Nginx multi-site hosting with TLS and admin UIs
-- **AI-assisted dev workflows** - custom Cursor rules, agent prompt templates, and AI IDE configurations
+- **AI-assisted operations:** agent workflows, RAG, local and hosted model
+  routing, approval gates, and durable handoffs.
+- **Revenue systems:** business websites, prospect previews, lead capture,
+  customer intake, local SEO foundations, and follow-up workflows.
+- **Production infrastructure:** Docker, Linux, CI/CD, observability, backups,
+  provider failover, and deployment runbooks.
+- **Focused MVPs:** small enough to ship, complete enough to prove value, and
+  documented well enough for the next operator to own.
+
+## Working Principles
+
+1. Verify the live system, not the slide deck.
+2. Keep humans in control of external sends, money, and production changes.
+3. Make state durable so a cold-started agent can continue the work.
+4. Ship the smallest useful result, then improve it with evidence.
+
+## Core Stack
+
+`TypeScript` `Next.js` `React` `Node.js` `Python` `FastAPI` `PostgreSQL`
+`Docker` `Linux` `GitHub Actions` `OpenAI` `Claude` `Gemini` `Ollama`
+`Qdrant` `MCP`
 
 ---
 
-## Tech Stack
-
-**AI/ML:** Python, LangChain, LM Studio, Qdrant, DeepSeek, Gemini API, Claude, OpenAI
-
-**Backend:** Node.js, Express, FastAPI, Flask, Docker, Nginx
-
-**Frontend:** TypeScript, React, HTML/CSS
-
-**DevOps:** GitHub Actions, Docker Compose, Azure Pipelines, Linux
-
-**AI Dev Tools:** Cursor, DevContainers, Claude agents, custom .cursorrules
-
----
-
-## Featured Projects
-
-- [**aiarsenal**](https://github.com/3kpro/aiarsenal) - DeepSeek fine-tuning, RAG pipelines, multi-agent MCP, LaTeX-OCR
-- [**paralegal-agent-crew**](https://github.com/3kpro/paralegal-agent-crew) - Multi-agent legal automation with Cursor rules, Claude, and DevContainer
-- [**jarvis**](https://github.com/3kpro/jarvis) - Local-first AI assistant: multi-LLM routing, RAG, home-lab cluster
-- [**3K_Trading_Bot_V2**](https://github.com/3kpro/3K_Trading_Bot_V2) - Python crypto bot: Donchian strategy, Flask dashboard, Docker, CI/CD
-- [**CryptoTrader**](https://github.com/3kpro/CryptoTrader) - AI-driven trading system with Claude agent integration
-- [**3kpro.services**](https://github.com/3kpro/3kpro.services) - Self-hosted multi-site platform: Express, Docker, Nginx, TLS
-
----
-
-## Contact
-
-**Email:** james@3kpro.services
-
-**Website:** https://3kpro.services
-
-**Location:** Tulsa, Oklahoma
+**Building something operationally messy?**
+[Send me the problem](mailto:james@3kpro.services) or start at
+[3kpro.services](https://3kpro.services).
